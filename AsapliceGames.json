@@ -1,21 +1,102 @@
 {
   "isActive": true,
-  "asin1": "B0CW9V4CKG",
-  "img1": "https://m.media-amazon.com/images/I/61kD5va15JL.png",
-  "title1": "Who is Angel?",
-  "asin2": "B0CW18M2RX",
-  "img2": "https://m.media-amazon.com/images/I/71f16avVcML.png",
-  "title2": "Dash Hero",
-  "asin3": "B0DMPRYXLG",
-  "img3": "https://m.media-amazon.com/images/I/81LVQ6a7VeL.png",
-  "title3": "Collect and Fight",
-  "asin4": "B0CW19S7PM",
-  "img4": "https://m.media-amazon.com/images/I/71I3SrB-9mL.png",
-  "title4": "Robot Wars",
-  "asin5": "B0DMPSHC35",
-  "img5": "https://m.media-amazon.com/images/I/416DQYJQyzL.png",
-  "title5": "Mr. Cupid",
-  "asin6": "B0DMNSZRY9",
-  "img6": "https://m.media-amazon.com/images/I/71GEn8PaoBL.png",
-  "title6": "Make Master"
+  "games": [
+    {
+      "asin": "B0DLHNV2VR",
+      "packageName": "com.fereraworld.games.escapeevil.runninghead",
+      "title": "Escape Evil Running Head",
+      "img": "https://m.media-amazon.com/images/I/81y4jcoJLZL.png"
+    },
+    {
+      "asin": "B0D914VHWB",
+      "packageName": "com.zombiefaction.playground",
+      "title": "Zombie Faction Playground",
+      "img": "https://m.media-amazon.com/images/I/71XolbEYTfL.png"
+    },
+    {
+      "asin": "B0DQJQ9YP8",
+      "packageName": "obbyrun.prison.escape",
+      "title": "Barry Prison Escape Jailbreak",
+      "img": "https://m.media-amazon.com/images/I/81gWD4cwKTL.png"
+    },
+    {
+      "asin": "B0DWXZMSNH",
+      "packageName": "nextbot.backrooms.shooter",
+      "title": "Nextbots In Playground SANDBOXs",
+      "img": "https://m.media-amazon.com/images/I/81cOCRLq2oL.png"
+    },
+    {
+      "asin": "B0CW18M2RX",
+      "packageName": "com.Onki.DashHero",
+      "title": "Dash Hero",
+      "img": "https://m.media-amazon.com/images/I/71f16avVcML.png"
+    },
+    {
+      "asin": "B0DMPSHC35",
+      "packageName": "com.Onki.MrCupid",
+      "title": "Mr. Cupid",
+      "img": "https://m.media-amazon.com/images/I/416DQYJQyzL.png"
+    },
+    {
+      "asin": "B0DMPRYXLG",
+      "packageName": "collect.and.fight",
+      "title": "Collect and Fight",
+      "img": "https://m.media-amazon.com/images/I/81LVQ6a7VeL.png"
+    },
+    {
+      "asin": "B0CW9V4CKG",
+      "packageName": "com.Onki.WhoisAngel",
+      "title": "Who is Angel?",
+      "img": "https://m.media-amazon.com/images/I/61kD5va15JL.png"
+    },
+    {
+      "asin": "B0CW17DMJ4",
+      "packageName": "com.Onki.MakeMaster",
+      "title": "Make Master",
+      "img": "https://m.media-amazon.com/images/I/71GEn8PaoBL.png"
+    },
+    {
+      "asin": "B0CW19S7PM",
+      "packageName": "com.Onki.Robot",
+      "title": "Robot Wars",
+      "img": "https://m.media-amazon.com/images/I/71I3SrB-9mL.png"
+    },
+    {
+      "asin": "B0DYF9QSD3",
+      "packageName": "com.block.defence",
+      "title": "Blocks & Mobs",
+      "img": "https://m.media-amazon.com/images/I/81y-NxR22qL.png"
+    },
+    {
+      "asin": "B0DYF8CDLQ",
+      "packageName": "com.cat.squad",
+      "title": "Cat Squad: Dinner Defense",
+      "img": "https://m.media-amazon.com/images/I/71V33oy3ekL.png"
+    },
+    {
+      "asin": "B0CL2PC76S",
+      "packageName": "games.tatsumaki.skatemaster",
+      "title": "Skate Master",
+      "img": "https://m.media-amazon.com/images/I/71vbK8HuUhL.png"
+    },
+    {
+      "asin": "B0CL2QH712",
+      "packageName": "games.tatsumaki.stretchman",
+      "title": "Stretch Man",
+      "img": "https://m.media-amazon.com/images/I/51ne7d95iZL.png"
+    },
+    {
+      "asin": "B0CLKV1YHF",
+      "packageName": "games.tatsumaki.pushmaster",
+      "title": "Push Master",
+      "img": "https://m.media-amazon.com/images/I/81sclpxmNwL.png"
+    },
+    {
+      "asin": "B0CL2R9GPJ",
+      "packageName": "games.tatsumaki.gummyfighters",
+      "title": "Gummy Fighters",
+      "img": "https://m.media-amazon.com/images/I/81A4laqW6DL.png"
+    }
+  ]
 }
+
